@@ -1,4 +1,4 @@
 Login system initialized
 Login system initialized
 Username validation added
-Password must be 6 characters
+Password must be 8 characters
